@@ -6,7 +6,7 @@
   - [Supabase.js](https://supabase.io/docs/library/getting-started) for user management and realtime data syncing.
 - Backend:
   - [app.supabase.io](https://app.supabase.io/): hosted Postgres database with restful API for usage with Supabase.js.
-  
+
 
 ## Demo
 
@@ -84,3 +84,5 @@ create policy "Individuals can delete their own todos." on todos for
 - [Supabase](https://supabase.io)
 
 Supabase is open source. We'd love for you to follow along and get involved at https://github.com/supabase/supabase
+
+Just a git test.
